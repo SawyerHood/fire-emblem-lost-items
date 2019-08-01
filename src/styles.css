@@ -1,0 +1,17 @@
+.App {
+  font-family: sans-serif;
+}
+
+.header .ant-card-body {
+  padding: 0px;
+}
+
+.ant-page-header {
+  line-height: 30px;
+}
+
+.ant-btn-circle.ant-btn-lg.add-img-btn {
+  width: 96px;
+  height: 96px;
+  font-size: 30px;
+}
